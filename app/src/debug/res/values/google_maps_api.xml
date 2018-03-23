@@ -1,0 +1,19 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=AD:13:F4:33:14:A4:FC:D8:81:6A:84:9C:3A:F4:CC:8E:BE:42:71:EF%3Bcom.example.parikkap.roundtripoptimizer
+
+    You can also add your credentials to an existing key, using this line:
+    AD:13:F4:33:14:A4:FC:D8:81:6A:84:9C:3A:F4:CC:8E:BE:42:71:EF;com.example.parikkap.roundtripoptimizer
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyC65LSmCHl5Va2p3FLp5XAlPMGZJsVGOaI</string>
+</resources>
